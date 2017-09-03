@@ -1,0 +1,11 @@
+{
+    "name": "ARTCODE Api",
+    "version": "1.0.0",
+    "description": "Apidoc for artcode",
+    "title": "Apidoc",
+    "url" : "",
+    "header": {
+        "title": "统一说明",
+        "filename": "apidoc.md"
+    }
+}

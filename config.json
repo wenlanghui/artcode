@@ -1,0 +1,16 @@
+{
+    "mongodb": "mongodb://127.0.0.1/artcode",
+    "redis": {
+      "host": "127.0.0.1",
+      "port": 6379
+    },
+    "server": {
+      "admin": {
+        "port": 9999
+      }
+    },
+    "jwt": {
+      "adminSecret": "123",
+      "adminExpiresIn": "30d"
+    }
+  }
